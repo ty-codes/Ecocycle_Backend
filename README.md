@@ -1,4 +1,6 @@
-# Ecocycle_Backend
+# Ecocycle (Backend)
+Ecocycle Nigeria is a comprehensive solution designed to tackle the plastic waste problem in Nigeria by focusing on upcycling, education, and raising awareness about responsible plastic consumption. This product aims to reduce the environmental impact of plastic waster while also generating economic opportunities and fostering a culture of sustainability.
+
 This repository contains the backend source code for Ecocycle.
 
 ## Status
