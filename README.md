@@ -19,11 +19,11 @@ Still in progress
 ## Features
 - User login🟢
 - User register🟢
-- View collection sites 🟡
-- Add collection site
+- View collection sites 🟢
+- Add collection site🟢
 - Verify collection site image using AI)
 - **Craftsman**
-- Upload craftwork and price
+- Upload craftwork and price🟢
 - Access plastics from collection sites at discount
 - Access collection sites
 - **Depositor**
